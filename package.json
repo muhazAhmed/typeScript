@@ -1,0 +1,22 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon tsc sandbox.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhazAhmed/typeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhazAhmed/typeScript/issues"
+  },
+  "homepage": "https://github.com/muhazAhmed/typeScript#readme",
+  "dependencies": {
+    "typescript": "^4.9.3"
+  }
+}
